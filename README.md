@@ -25,8 +25,8 @@ The **ft_printf** project aims to recreate a `printf`-like function that can han
 To use `ft_printf`, start by cloning the repository and compiling the library.
 
 ```bash
-git clone https://github.com/your-username/ft_printf.git
-cd ft_printf
+git clone https://github.com/garcia2/42_ft_printf
+cd 42_ft_printf
 make
 ```
 
